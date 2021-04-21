@@ -1,6 +1,6 @@
 # CO2-Emission-Regression-Techniques
 
-Techniques analysis with their atmost accuracy score are:
+Techniques analysis with their atmost accuracy scores are:
 
 1.Polynomial Regression
 
